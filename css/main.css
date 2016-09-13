@@ -1,0 +1,82 @@
+header {
+	background: white;
+	background-size: cover;
+	text-align: center;
+	padding-top:10px;
+
+}
+.container1 li {
+	display: table-cell;
+	list-style: none;
+	padding: 20px;
+	padding-right: 5px;
+	margin-top: 30px;
+	margin-left: 400px;
+	font-size: 14px;
+	text-transform: uppercase;
+
+}
+.container1 a {
+	color: gray;
+	padding: 5px;
+	font-weight: bold;
+	text-decoration: none;
+
+}
+.container2{
+	background-color: gray;
+	padding-top: 30px;
+	color: white;
+}
+.logo{
+	height: 40px;
+}
+.input-contact {
+	width: 150px;
+	height: 20px;
+	margin-bottom: 20px;
+	border: 1px solid gray;
+	padding: 5px;
+	padding-left: 45px;
+	color: gray;
+}
+.SUBSCRIBE {
+	background-color: #18B5C3;
+	display: block;
+	width: 150px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 15px;
+	color: white;
+	text-transform: uppercase;
+	border-radius: 10px 10px;
+	text-align: center;
+	margin-left: 15px;
+}
+.contenido{
+	padding-left: 200px;
+	padding-right: 200px;
+	margin-top:50px;
+	margin-bottom: 50px;
+}
+.contenedor3{
+	background-color: pink;
+	width: 200px;
+	text-align: center;
+	padding:10px;
+	border-radius: 15px 15px;
+	margin-top:50px;
+}
+
+h3{
+	margin-bottom: 5px;
+}
+footer{
+	color: gray;
+	padding:10px;
+}
+@media (min-width: 320px) and (max-width: 540px){
+	body{
+		
+		}
+	
